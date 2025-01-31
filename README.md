@@ -1,5 +1,5 @@
 # 10X-Settings
-Custom color themes for C, settings, and keybindings for the [10X Editor](https://10xeditor.com).
+Custom color themes for the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)), misc. settings, Python scripts, and keybindings for the [10X Editor](https://10xeditor.com).
 \- *Contributions are welcome to better support languages other than C.*
 
 🎨 Themes:
@@ -30,14 +30,15 @@ Unfortunately, I haven't yet found a way to dymamically set the margin when a co
 ---
 
 :floppy_disk: Installation *(be sure to backup your existing files first)*:
+
+Begin by applying just the QuadTone2 theme before continuing with settings and Python scripts.
 - Copy the theme files to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\Settings\ColorSchemes```
 - Copy the settings files to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\Settings```
-- Copy the python script(s) to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\PythonScripts```
+- Copy the Python script(s) to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\PythonScripts```
 
 ---
 
 QuadTone2 single-pane theme preview *(4K plus 3:2 display)*:
-
 <img width="1920" alt="quadtone2_single_pane_preview" src="https://github.com/user-attachments/assets/119eff79-79ab-44a2-bb9c-23eb86784cb7" />
 
 QuadTone2 dual-pane theme preview *(4K plus 3:2 display)*:
