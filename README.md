@@ -44,4 +44,4 @@ QuadTone2 single-pane theme preview *(4K plus 3:2 display)*:
 QuadTone2 dual-pane theme preview *(4K plus 3:2 display)*:
 <img width="1920" alt="quadtone2_dual_pane_preview" src="https://github.com/user-attachments/assets/475dea81-23e4-431c-bd09-e919d4f0c1cb" />
 
-**Notes:** Both themes are not fully complete, as they are covering the features I use. Neither theme modifies the Workspace Tree (yet). 
+**Notes:** Both themes are not fully complete, as they are covering only the features I use. Contribution are welcome... just make a pull request. Neither theme modifies the Workspace Tree (yet). The colors and contrast I see will be different to what you see, because I amn using a custom color profile on my operating system. 
