@@ -28,7 +28,7 @@ Unfortunately, I haven't yet found a way to dymamically set the margin when a co
 
 ---
 
-:floppy_disk: Installation:
+:floppy_disk: Installation *(be sure to backup your existing files first)*:
 - Copy the theme files to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\Settings\ColorSchemes```
 - Copy the settings files to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\Settings```
 - Copy the python script(s) to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\PythonScripts```
