@@ -2,6 +2,8 @@
 Custom color themes for the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)), misc. settings, Python scripts, and keybindings for the [10X Editor](https://10xeditor.com).
 \- *Contributions are welcome to better support languages other than C.*
 
+**BE SURE TO READ ALL OF THE INFO. BELOW.**
+
 🎨 Themes:
 - ```QuadTone``` : A theme which limits the syntax highlighting tones (i.e. not a fruit salad bowl). Only tested with **.c**, **.h**, and **.py** files.
 - ```QuadTone2``` : A more refined theme which is designed for a focus/zen like mode. Only tested with **.c**, **.h**, and **.py** files.. *(Preview screens below)*
