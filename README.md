@@ -1,9 +1,10 @@
 # 10X-Settings
 Custom color theme, settings, and keybindings for the [10X Editor](https://10xeditor.com).
+\- *Contributions are welcome to better support languages other than C.*
 
 🎨 Themes:
-- ```QuadTone``` : A theme which limits the syntax highlighting tones (i.e. not a fruit salad bowl).
-- ```QuadTone2``` : A more refined theme which is designed for a focus/zen like mode. *(Preview screens below)*
+- ```QuadTone``` : A theme which limits the syntax highlighting tones (i.e. not a fruit salad bowl). Only tested with **.c**, **.h**, and **.py** files.
+- ```QuadTone2``` : A more refined theme which is designed for a focus/zen like mode. Only tested with **.c**, **.h**, and **.py** files.. *(Preview screens below)*
 
 ⌨ Keybindings:
 
