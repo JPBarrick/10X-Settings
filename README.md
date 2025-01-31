@@ -40,10 +40,18 @@ Begin by applying just the QuadTone2 theme before continuing with settings and P
 
 ---
 
-QuadTone2 single-pane theme preview *(4K plus 3:2 display)*:
+**QuadTone2** focus/zen single-pane theme preview *(4K plus 3:2 display)*:
 <img width="1920" alt="quadtone2_single_pane_preview" src="https://github.com/user-attachments/assets/119eff79-79ab-44a2-bb9c-23eb86784cb7" />
 
-QuadTone2 dual-pane theme preview *(4K plus 3:2 display)*:
+**QuadTone2** focus/zen dual-pane theme preview *(4K plus 3:2 display)*:
 <img width="1920" alt="quadtone2_dual_pane_preview" src="https://github.com/user-attachments/assets/475dea81-23e4-431c-bd09-e919d4f0c1cb" />
+
+---
+
+**QuadTone** single-pane theme preview *(4K plus 3:2 display)*:
+<img width="1920" alt="quadtone_single_pane_preview" src="https://github.com/user-attachments/assets/5b07995a-7590-468c-ba4e-df863c9e16a1" />
+
+**QuadTone** dual-pane theme preview *(4K plus 3:2 display)*:
+<img width="1920" alt="quadtone_dual_pane_preview" src="https://github.com/user-attachments/assets/00485a59-bc7d-4a52-b740-78b60a51e6dc" />
 
 **Notes:** Both themes are not fully complete, as they are covering only the features I use. Contribution are welcome... just make a pull request for review. Neither theme modifies the Workspace Tree (yet). The colors and contrast I see will be different to what you see, because I use a custom color profile on my operating system. 
