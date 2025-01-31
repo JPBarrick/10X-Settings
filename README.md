@@ -1,5 +1,5 @@
 # 10X-Settings
-Custom color theme, settings, and keybindings for the [10X Editor](https://10xeditor.com).
+Custom color themes for C, settings, and keybindings for the [10X Editor](https://10xeditor.com).
 \- *Contributions are welcome to better support languages other than C.*
 
 🎨 Themes:
