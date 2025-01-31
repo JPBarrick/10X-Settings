@@ -18,9 +18,9 @@ Custom color themes for the [C programming language](https://en.wikipedia.org/wi
 
 🧾 Python functions:
 
-- ```DuplicatePreprocessedLine()``` : this will take a line from a C macro and write out the parsed line underneath. This helps with complex macros to see synax highlighting, arguments, and parenthsis balance.
-- ```ToggleColumn2()``` : when in single-pane mode, this will open a second pane to the right with the current file.
-- ```ToggleColumn2Header()``` : when in single-pane mode, this will open the counterpart file in a new pane to the right.
+- ```DuplicatePreprocessedLine()``` : This will take a line from a C macro and write out the parsed line underneath. This helps with complex macros to see synax highlighting, arguments, and parenthsis balance.
+- ```ToggleColumn2()``` : When in single-pane mode, this will open a second pane to the right with the current file.
+- ```ToggleColumn2Header()``` : When in single-pane mode, this will open the counterpart file in a new pane to the right.
 
 ---
 
