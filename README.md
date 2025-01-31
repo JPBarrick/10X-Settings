@@ -3,7 +3,7 @@ Custom color theme, settings, and keybindings for the [10X Editor](https://10xed
 
 🎨 Themes:
 - ```QuadTone``` : A theme which limits the syntax highlighting tones (i.e. not a fruit salad bowl).
-- ```QuadTone2``` : A theme refined theme which is designed for a focus/zen like mode. *(Preview screens below)*
+- ```QuadTone2``` : A more refined theme which is designed for a focus/zen like mode. *(Preview screens below)*
 
 ⌨ Keybindings:
 
