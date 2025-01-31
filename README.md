@@ -1,6 +1,10 @@
 # 10X-Settings
 Custom color theme, settings, and keybindings for the [10X Editor](https://10xeditor.com).
 
+🎨 Themes:
+- ```QuadTone``` : A theme which limits the syntax highlighting tones (i.e. not a fruit salad bowl).
+- ```QuadTone2``` : A theme refined theme which is designed for a focus/zen like mode. *(Preview screens below)*
+
 ⌨ Keybindings:
 
 - ```[Ctrl] + [2] ``` : Open/close current file in pane to the right.
@@ -30,3 +34,5 @@ QuadTone2 single-pane theme preview *(4K plus 3:2 display)*:
 
 QuadTone2 dual-pane theme preview *(4K plus 3:2 display)*:
 <img width="1920" alt="quadtone2_dual_pane_preview" src="https://github.com/user-attachments/assets/475dea81-23e4-431c-bd09-e919d4f0c1cb" />
+
+**Notes:** Both themes are not fully complete, as they are covering the features I use. Neither theme modifies the Workspace Tree (yet). 
