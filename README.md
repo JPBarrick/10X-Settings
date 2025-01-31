@@ -1,5 +1,5 @@
 # 10X-Settings
-Custom color themes for the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)), misc. settings, Python scripts, and keybindings for the [10X Editor](https://10xeditor.com).
+Custom color themes for the [C language](https://en.wikipedia.org/wiki/C_(programming_language)), misc. settings, Python scripts, and keybindings for the [10X Editor](https://10xeditor.com).
 \- *Contributions are welcome to better support languages other than C.*
 
 **BE SURE TO READ ALL OF THE INFO. BELOW.**
