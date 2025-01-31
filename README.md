@@ -28,6 +28,13 @@ Unfortunately, I haven't yet found a way to dymamically set the margin when a co
 
 ---
 
+:floppy_disk: Installation:
+- Copy the theme files to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\Settings\ColorSchemes```
+- Copy the settings files to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\Settings```
+- Copy the python script(s) to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\PythonScripts```
+
+---
+
 QuadTone2 single-pane theme preview *(4K plus 3:2 display)*:
 
 <img width="1920" alt="quadtone2_single_pane_preview" src="https://github.com/user-attachments/assets/119eff79-79ab-44a2-bb9c-23eb86784cb7" />
