@@ -27,7 +27,7 @@ Custom color themes for the [C programming language](https://en.wikipedia.org/wi
 ⚙️ Settings:
 
 The settings file includes various customizations, including the use of RobotoMono font, and a margin for single pane on my 4K+ 3:2 monitor.
-Unfortunately, I haven't yet found a way to dymamically set the margin when a column width changes, such as when in dual-pane mode.
+Unfortunately, I haven't yet found a way to dymamically set the margin when a column width changes, such as when in dual-pane mode. For the moment, it is probably best to set the `MarginWidth` to a small value, such as 50 or 100.
 
 ---
 
