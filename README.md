@@ -29,7 +29,7 @@ Custom color themes for the [C language](https://en.wikipedia.org/wiki/C_(progra
 
 ⚙️ Settings:
 
-The settings file includes font and font sizes for aspects of the 10X GUI. Specificallty the theme uses:
+The settings file includes font and font sizes for aspects of the 10X GUI. Preferred method is to install the ***Roboto Mono Light*** font and add the following to your own ***Settings.10x_settings*** file:
 - `EditorFont:` RobotoMono Nerd Font Light
 - `EditorFontSize:` 10
 - `StatusBarFontSize:` 12
