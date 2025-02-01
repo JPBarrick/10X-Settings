@@ -20,8 +20,10 @@ Custom color themes for the [C language](https://en.wikipedia.org/wiki/C_(progra
 🧾 Python functions:
 
 - ```DuplicatePreprocessedLine()``` : This will take a line from a C macro and write out the parsed line underneath. This helps with complex macros to see synax highlighting, arguments, and parenthsis balance.
-- ```ToggleColumn2()``` : When in single-pane mode, this will open a second pane to the right with the current file.
-- ```ToggleColumn2Header()``` : When in single-pane mode, this will open the counterpart file in a new pane to the right.
+- ```ToggleColumn2()``` : When in single-pane mode, this will open a second pane to the right with the current file with the code centered.
+- ```ToggleColumn2Header()``` : When in single-pane mode, this will open the counterpart file in a new pane to the right with the code centered.
+  
+   The constants: `MARGIN_SINGLE_COLUMN_RATIO` and `MARGIN_DUAL_COLUMN_RATIO` can be modified to better fit your display or personal preference for the margin adjustments between modes.
 
 ---
 
