@@ -29,10 +29,7 @@ Custom color themes for the [C language](https://en.wikipedia.org/wiki/C_(progra
 
 ⚙️ Settings:
 
-The settings file includes font and font sizes for aspects of the 10X GUI. Preferred method is to install the ***Roboto Mono Light*** font and add the following to your own ***Settings.10x_settings*** file:
-- `EditorFont:` RobotoMono Nerd Font Light
-- `EditorFontSize:` 10
-- `StatusBarFontSize:` 12
+The settings files include keybindsing and preferences for aspects of the 10X GUI. 
 
 ---
 
@@ -40,8 +37,22 @@ The settings file includes font and font sizes for aspects of the 10X GUI. Prefe
 
 Begin by applying just the QuadTone2 theme before continuing with settings and Python scripts.
 - Copy the theme files to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\Settings\ColorSchemes```
-- Copy the settings files to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\Settings```
 - Copy the Python script(s) to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\PythonScripts```
+- Install the ***Roboto Mono Light*** font.
+- **Option 1**:
+  - Add the add/replace the following into your files:
+    - ***Settings.10x_settings***
+      - `EditorFont:` RobotoMono Nerd Font Light
+      - `EditorFontSize:` 10
+      - `StatusBarFontSize:` 12
+    - ***KeyMappings.10x_settings***
+      - `Control 2:`				   ToggleColumn2
+      - `Control Shift 2:`		   ToggleColumn2Header
+      - `Control Shift P:`	       DuplicatePreprocessedLine
+- **Option 2**
+  - Or copy the setting files to ```%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\10x\Settings```
+  
+
 
 ---
 
