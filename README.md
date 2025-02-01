@@ -29,9 +29,10 @@ Custom color themes for the [C language](https://en.wikipedia.org/wiki/C_(progra
 
 ⚙️ Settings:
 
-The settings file includes various customizations, including the use of RobotoMono font, and a margin for single pane on my 4K+ 3:2 monitor.
-
-For now, the JBP.py file has two constants: `MARGIN_SINGLE_COLUMN_RATIO` and `MARGIN_DUAL_COLUMN_RATIO`. Set these to appropriate values for your monitor.
+The settings file includes font and font sizes for aspects of the 10X GUI. Specificallty the theme uses:
+- `EditorFont:` RobotoMono Nerd Font Light
+- `EditorFontSize:` 10
+- `StatusBarFontSize:` 12
 
 ---
 
