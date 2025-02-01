@@ -29,9 +29,7 @@ Custom color themes for the [C language](https://en.wikipedia.org/wiki/C_(progra
 
 The settings file includes various customizations, including the use of RobotoMono font, and a margin for single pane on my 4K+ 3:2 monitor.
 
-For now, the JBP.py file has two constants: `MARGIN_SINGLE_COLUMN` and `MARGIN_DUAL_COLUMN`. Set these to appropriate values for your monitor.
-
-Unfortunately, I haven't yet found a way to dymamically set the margin when a column width changes, such as when in using the mouse to adjust the divider in dual-pane mode. For the moment, it is probably best to set the `MarginWidth` to a small value, such as 50 or 100.
+For now, the JBP.py file has two constants: `MARGIN_SINGLE_COLUMN_RATIO` and `MARGIN_DUAL_COLUMN_RATIO`. Set these to appropriate values for your monitor.
 
 ---
 
